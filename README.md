@@ -1,10 +1,8 @@
 - :smile: [简体中文](https://github.com/hongwenjun/vps_setup/blob/master/README.md) 　:cry: [English](https://git.io/vps.english)
 
-## :bell: 我們雖然窮，但是不能說謊，也不能打人；不是我們的東西，我們不能拿；
-## :100: 要好好讀書，長大要做個對社會有用的人。
 
 - 欢迎加入编程语言群 Telegram 电报群：https://t.me/codeblocks
-- [![](https://raw.githubusercontent.com/hongwenjun/vps_setup/master/img/youtube.png)频道](https://www.youtube.com/sRGB18/videos) &nbsp;&nbsp;www.youtube.com/sRGB18 &nbsp;&nbsp;[![](https://raw.githubusercontent.com/hongwenjun/vps_setup/master/img/paypal.png)赞赏支持!](https://paypal.me/sRGB18)&nbsp;&nbsp;https://paypal.me/sRGB18
+- [![](https://raw.githubusercontent.com/hongwenjun/vps_setup/master/img/youtube.png)频道](https://www.youtube.com/sRGB18/videos) &nbsp;&nbsp;www.youtube.com/sRGB18 &nbsp;&nbsp;(https://paypal.me/sRGB18)&nbsp;&nbsp;https://paypal.me/sRGB18
 ----
 
 - :gift: 项目: https://git.io/vps.us 　　 https://git.io/winkcp 　　 https://git.io/vps.english
@@ -15,17 +13,8 @@
 
 ---
 ### :heart_eyes:Linux 简单命令工具和简易脚本
-<details>
-<summary>点击展开内容</summary>
-  
-#### 一些表情例子 EMOJI
-- :smile: :laughing: :dizzy_face: :sob: :cold_sweat: :sweat_smile:  :cry: :triumph: :heart_eyes: :relieved:
-- :+1: :-1: :100: :clap: :bell: :gift: :question: :bomb: :heart: :coffee: :cyclone: :bow: :kiss: :pray: :anger:
 
-```c
-:smile: :laughing: :dizzy_face: :sob: :cold_sweat: :sweat_smile:  :cry: :triumph: :heart_eyes: :relieved:
-:+1: :-1: :100: :clap: :bell: :gift: :question: :bomb: :heart: :coffee: :cyclone: :bow: :kiss: :pray: :anger:
-```
+
   
 ### 安装工具 tmux 和 fish 等
 
